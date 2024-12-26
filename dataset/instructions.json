@@ -1,0 +1,419 @@
+{
+    "391895": {
+        "context": "A man with a red helmet on a small moped on a dirt road.  Man riding a motor bike on a dirt road on the countryside. A man riding on the back of a motorcycle. A dirt path with a young person on a motor bike rests to the foreground of a verdant area with a bridge and a background of cloud-wreathed mountains.  A man in a red shirt and a red hat is on a motorcycle on a hill side.\n\nmotorcycle(0): [359.17, 146.17, 112.45, 213.57], person(1): [339.88, 22.16, 153.88, 300.73], person(2): [471.64, 172.82, 35.92, 48.1], bicycle(3): [486.01, 183.31, 30.63, 34.98]",
+        "response": {
+            "0": "compact, smooth, sturdy, metallic, hard",
+            "1": "balanced, agile, warm, firm, steady",
+            "2": "small, stable, warm, relaxed, responsive",
+            "3": "light, firm, sleek, agile, balanced"
+        }
+    },
+    "522418": {
+        "context": "A woman wearing a net on her head cutting a cake.  A woman cutting a large white sheet cake. A woman wearing a hair net cutting a large sheet cake. there is a woman that is cutting a white cake A woman marking a cake with the back of a chef's knife. \n\nperson(0): [382.48, 0.0, 256.8, 474.31], knife(1): [234.06, 406.61, 219.94, 42.67], cake(2): [0.0, 316.04, 406.65, 157.49], sink(3): [305.45, 172.05, 57.36, 77.3]",
+        "response": {
+            "0": "steady, balanced, warm, controlled, gentle",
+            "1": "hard, cool, smooth, sharp-edged, firm",
+            "2": "soft, creamy, smooth, spongy, delicate",
+            "3": "cool, hard, polished, smooth, solid"
+        }
+    },
+    "184613": {
+        "context": "A child holding a flowered umbrella and petting a yak. A young man holding an umbrella next to a herd of cattle. a young boy barefoot holding an umbrella touching the horn of a cow A young boy with an umbrella who is touching the horn of a cow. A boy holding an umbrella while standing next to livestock.\n\ncow(0): [239.9, 111.16, 128.62, 99.71], cow(1): [285.08, 85.99, 170.23, 64.48], cow(2): [452.49, 85.93, 47.51, 22.82], cow(3): [296.96, 68.01, 22.39, 21.06], cow(4): [461.07, 75.92, 34.46, 14.19], umbrella(5): [103.44, 31.01, 154.79, 135.15], cow(6): [65.33, 59.84, 20.64, 12.31], person(7): [146.48, 65.69, 160.83, 246.9], person(8): [8.29, 57.26, 75.33, 146.9], person(9): [45.24, 48.41, 45.97, 125.55], person(10): [20.71, 44.87, 44.28, 50.36], person(11): [0.75, 76.59, 36.16, 105.47], person(12): [343.28, 63.97, 18.96, 28.73], person(13): [362.05, 66.51, 17.44, 24.78], person(14): [382.76, 60.79, 12.82, 32.54], person(15): [413.61, 61.01, 11.92, 27.2], person(16): [314.34, 57.09, 13.69, 31.73], person(17): [288.04, 57.1, 9.76, 29.71], person(18): [272.72, 56.58, 6.37, 30.54], person(19): [8.93, 48.6, 9.17, 10.69], cow(20): [271.13, 87.59, 78.09, 23.01], cow(21): [257.75, 80.2, 29.67, 30.67], cow(22): [255.71, 132.65, 237.38, 185.02], person(23): [0, 35, 481, 150]",
+        "response": {
+            "0": "coarse, warm, furry, solid, muscled",
+            "1": "rough, sturdy, brawny, warm, hairy",
+            "2": "coarse, sturdy, compact, warm, textured",
+            "3": "compact, coarse, fuzzy, muscular, warm",
+            "4": "solid, warm, bristly, firm, rugged",
+            "5": "smooth, water-repellant, patterned, taut, lightweight",
+            "6": "dense, warm, coarse, compact, bristly",
+            "7": "young, smooth-skinned, barefoot, slight, warm",
+            "8": "small, nimble, barefoot, smooth-skinned, gentle",
+            "9": "nimble, soft-footed, slight, smooth, warm",
+            "10": "slight, fragile, soft-skinned, miniature, warm",
+            "11": "small, compact, balanced, soft-touch, warm",
+            "12": "slight, quick, miniature, soft, warm",
+            "13": "fragile, soft, sprightly, light, warm",
+            "14": "nimble, delicate, soft, small, warm",
+            "15": "small, quick, soft, agile, warm",
+            "16": "tiny, nimble, balanced, soft, warm",
+            "17": "compact, nimble, delicate, warm, small",
+            "18": "tiny, agile, balanced, soft, warm",
+            "19": "slender, quick, soft-skinned, warm, agile",
+            "20": "solid, warm, broad, sturdy, bristly",
+            "21": "compact, warm, hairy, sturdy, resilient",
+            "22": "solid, hefty, muscled, warm, coarse",
+            "23": "expansive, encompassing, multi-textured, layered, varied"
+        }
+    },
+    "318219": {
+        "context": "A young boy standing in front of a computer keyboard. a little boy wearing headphones and looking at a computer monitor He is listening intently to the computer at school. A young boy stares up at the computer monitor. a young kid with head phones on using a computer \n\nperson(0): [40.65, 38.8, 418.38, 601.2], person(1): [0.0, 0.0, 198.92, 631.35], mouse(2): [455.98, 436.73, 58.57, 36.36], mouse(3): [405.44, 594.41, 76.59, 40.23], keyboard(4): [314.26, 479.43, 156.41, 90.4], keyboard(5): [276.83, 241.89, 159.37, 165.01], mouse(6): [329.2, 192.18, 67.89, 48.02], tv(7): [505.24, 0.0, 47.86, 309.25], tv(8): [470.68, 0.0, 45.93, 191.86], tv(9): [442.51, 0.0, 43.39, 119.87], mouse(10): [289.7, 319.6, 92.5, 21.07]",
+        "response": {
+            "0": "warm, soft, small, mobile, energetic",
+            "1": "tiny, gentle, warm, soft, attentive",
+            "2": "smooth, cool, firm, curved, clicky",
+            "3": "rounded, cool, smooth, solid, responsive",
+            "4": "flat, cool, smooth, rigid, clicky",
+            "5": "textured, wide, cool, firm, responsive",
+            "6": "curved, cool, textured, firm, movable",
+            "7": "cool, smooth, glossy, rigid, reflective",
+            "8": "narrow, cool, sleek, glossy, firm",
+            "9": "compact, smooth, glossy, solid, cool",
+            "10": "flat, cool, clicky, smooth, stable"
+        }
+    },
+    "554625": {
+        "context": "a boy wearing headphones using one computer in a long row of computers A little boy with earphones on listening to something. A group of people sitting at desk using computers. Children sitting at computer stations on a long table. A small child wearing headphones plays on the computer.\n\ntv(0): [380.74, 112.85, 40.62, 248.82], tv(1): [339.13, 32.99, 32.99, 175.5], person(2): [2.87, 73.18, 143.5, 532.38], person(3): [105.2, 36.83, 112.06, 227.87], person(4): [84.03, 1.57, 110.94, 64.99], tv(5): [359.55, 68.79, 46.02, 202.79], mouse(6): [302.72, 580.32, 69.85, 47.15], mouse(7): [337.8, 428.55, 56.3, 23.31], keyboard(8): [243.33, 505.3, 126.9, 76.41], keyboard(9): [227.33, 397.25, 111.44, 53.21], keyboard(10): [214.26, 321.9, 72.5, 37.75], tv(11): [322.48, 0.0, 47.25, 158.32], mouse(12): [221.02, 382.68, 69.39, 14.45], mouse(13): [308.78, 470.52, 84.58, 29.17], person(14): [27.33, 166.83, 319.28, 473.17], person(15): [59.99, 55.16, 101.53, 119.56], tv(16): [306.61, 0.33, 28.95, 71.64], mouse(17): [284.53, 312.54, 20.87, 8.35], keyboard(18): [294.89, 281.49, 43.99, 31.84]",
+        "response": {
+            "0": "smooth, cold, hard, flat, reflective",
+            "1": "glossy, cool, hard, brittle, sleek",
+            "2": "warm, flexible, soft, clothed, focused",
+            "3": "compact, firm, relaxed, soft, steady",
+            "4": "small, warm, nimble, dressed, soft",
+            "5": "glossy, hard, flat, cool, reflective",
+            "6": "smooth, hard, slightly curved, light, compact",
+            "7": "firm, smooth, hard, compact, cool",
+            "8": "flat, smooth, slightly textured, firm, cool",
+            "9": "smooth, flat, firm, cool, resistant",
+            "10": "compact, hard, flat, slightly textured, cool",
+            "11": "smooth, rigid, glossy, cool, reflective",
+            "12": "smooth, small, hard, cool, compact",
+            "13": "smooth, hard, handheld, cool, firm",
+            "14": "flexible, soft, grounded, warm, engaged",
+            "15": "small, flexible, soft, warm, attentive",
+            "16": "glossy, hard, smooth, reflective, cool",
+            "17": "tiny, hard, smooth, cool, precise",
+            "18": "hard, smooth, flat, compact, cool"
+        }
+    },
+    "574769": {
+        "context": "A woman in a room with a cat. A girl smiles as she holds a cat and wears a brightly colored skirt. a woman is holding a cat in her kitchen A woman is working in a kitchen carrying a soft toy. A woman is holding a cat in her kitchen.\n\ncat(0): [243.11, 174.53, 92.57, 165.19], bottle(1): [25.49, 252.06, 19.36, 67.57], bottle(2): [67.15, 324.79, 23.93, 29.54], person(3): [103.32, 133.45, 231.03, 421.89], potted plant(4): [0.04, 170.72, 102.01, 142.49], refrigerator(5): [357.53, 143.94, 122.4, 399.47], clock(6): [116.15, 218.82, 34.35, 34.94], spoon(7): [50.27, 343.33, 35.25, 14.22], bowl(8): [63.42, 286.13, 47.57, 27.38], orange(9): [73.25, 256.33, 24.39, 19.77], orange(10): [101.96, 294.04, 24.88, 21.52], orange(11): [101.09, 272.33, 13.31, 15.3], orange(12): [112.96, 289.67, 21.97, 20.51], oven(13): [289.24, 537.13, 126.18, 102.87], sink(14): [0.0, 316.05, 129.67, 58.78], handbag(15): [131.48, 445.77, 70.02, 118.08], orange(16): [83.95, 273.73, 23.71, 19.35], orange(17): [60.25, 269.83, 24.78, 21.89], orange(18): [95.42, 262.18, 9.1, 14.07]",
+        "response": {
+            "0": "soft, furry, warm, agile, cuddly",
+            "1": "smooth, cool, hard, cylindrical, lightweight",
+            "2": "small, sturdy, smooth, cool, rigid",
+            "3": "soft, flexible, warm, upright, balanced",
+            "4": "rough, earthy, cool, leafy, fibrous",
+            "5": "smooth, cold, heavy, solid, unyielding",
+            "6": "smooth, cool, metallic, reflective, slim",
+            "7": "smooth, cold, metallic, narrow, curved",
+            "8": "smooth, cool, curved, shallow, light",
+            "9": "smooth, dimpled, firm, round, cool",
+            "10": "smooth, cool, round, firm, textured",
+            "11": "round, firm, smooth, small, slightly cool",
+            "12": "dimpled, smooth, cool, firm, spherical",
+            "13": "solid, smooth, metallic, heavy, cool",
+            "14": "smooth, cool, solid, metallic, hard",
+            "15": "supple, textured, soft, flexible, sturdy",
+            "16": "smooth, firmly rounded, cool, textured, small",
+            "17": "spherical, smooth, cool, firm, textured",
+            "18": "smooth, cool, tiny, firm, round"
+        }
+    },
+    "60623": {
+        "context": "A young girl inhales with the intent of blowing out a candle.  A young girl is preparing to blow out her candle. A kid is to blow out the single candle in a bowl of birthday goodness.  Girl blowing out the candle on an ice-cream  A little girl is getting ready to blow out a candle on a small dessert.\n\nperson(0): [1.91, 1.91, 345.63, 420.3], person(1): [283.38, 2.17, 293.99, 324.83], spoon(2): [411.87, 127.67, 124.04, 85.93], bowl(3): [413.54, 237.06, 129.83, 115.41], wine glass(4): [560.67, 35.85, 79.33, 173.18], dining table(5): [343.14, 106.03, 296.86, 320.97], person(6): [470.58, 0.56, 150.15, 48.47]",
+        "response": {
+            "0": "soft, warm, delicate, smooth, gentle",
+            "1": "smooth, soft, gentle, warm, lively",
+            "2": "smooth, cool, lightweight, hard, rigid",
+            "3": "smooth, hard, cool, curved, stable",
+            "4": "delicate, smooth, fragile, cool, slender",
+            "5": "solid, smooth, flat, sturdy, expansive",
+            "6": "soft, warm, lively, smooth, pliable"
+        }
+    },
+    "309022": {
+        "context": "A commercial stainless kitchen with a pot of food cooking.  Some food sits in a pot in a kitchen.  A kitchen has all stainless steel appliances and counters. a kitchen with a sink and many cooking machines and a pot of food Food cooks in a pot on a stove in a kitchen.\n\nbottle(0): [55.5, 228.79, 7.09, 58.9], bottle(1): [60.96, 230.25, 16.53, 59.92], bottle(2): [75.44, 235.56, 16.63, 53.12], oven(3): [56.09, 151.01, 166.11, 130.52], sink(4): [367.45, 213.12, 79.75, 15.07], bottle(5): [67.43, 228.03, 8.84, 20.8], bowl(6): [343.39, 168.7, 26.05, 3.86], oven(7): [165.02, 281.8, 263.4, 124.14]",
+        "response": {
+            "0": "smooth, cool, rigid, slick, solid",
+            "1": "sleek, firm, slender, hard, cool",
+            "2": "slim, smooth, firm, cold, unyielding",
+            "3": "hot, smooth, sturdy, metallic, slightly warm",
+            "4": "cool, smooth, slick, shiny, firm",
+            "5": "light, hard, smooth, slender, touchable",
+            "6": "smooth, firm, deep, cool, balanced",
+            "7": "constantly warm, rigid, smooth, metallic, solid"
+        }
+    },
+    "5802": {
+        "context": "Two men wearing aprons working in a commercial-style kitchen. Chefs preparing food in a professional metallic style kitchen. Two people standing around in a large kitchen. A commercial kitchen with two men working to prepare several plates. two men in white shirts in a large steel kitchen\n\nbottle(0): [510.67, 324.92, 15.16, 43.07], bottle(1): [550.33, 346.19, 9.5, 53.18], bottle(2): [541.31, 354.23, 11.65, 35.94], bottle(3): [521.88, 332.37, 12.09, 43.9], bottle(4): [544.3, 410.21, 11.38, 45.85], bottle(5): [535.3, 424.29, 8.35, 20.41], person(6): [15.04, 73.03, 276.01, 398.45], person(7): [391.68, 179.4, 86.44, 273.25], knife(8): [571.18, 235.01, 5.95, 50.74], knife(9): [584.87, 248.05, 5.05, 40.22], bowl(10): [48.78, 217.36, 11.8, 7.87], cup(11): [95.56, 260.97, 11.47, 7.13], knife(12): [580.93, 236.98, 4.02, 46.05], backpack(13): [2.81, 240.0, 61.61, 42.62], bottle(14): [533.36, 337.88, 14.77, 47.12], cup(15): [111.69, 234.14, 8.95, 6.56], cup(16): [580.61, 300.83, 13.58, 11.52], cup(17): [559.0, 296.22, 8.48, 7.14], cup(18): [132.48, 234.75, 8.82, 5.14], knife(19): [592.7, 252.39, 2.87, 37.01], bowl(20): [96.16, 268.86, 26.07, 9.87], bowl(21): [73.47, 271.06, 20.55, 8.61], bowl(22): [546.62, 286.99, 31.35, 13.44], cup(23): [34.19, 216.76, 12.96, 7.82], cup(24): [119.02, 234.62, 7.45, 6.74], cup(25): [49.87, 217.76, 10.12, 7.4]",
+        "response": {
+            "0": "smooth, cold, hard, sleek, cylindrical",
+            "1": "glossy, tall, slippery, solid, cool",
+            "2": "compact, glossy, firm, smooth, cool",
+            "3": "sturdy, sleek, smooth, hard, cool",
+            "4": "smooth, elongated, firm, glossy, cool",
+            "5": "slim, cool, slippery, glossy, stable",
+            "6": "steady, firm, warm, mobile, poised",
+            "7": "upright, balanced, warm, alert, stable",
+            "8": "sharp, sleek, metallic, cold, firm",
+            "9": "polished, sharp, cold, metallic, slender",
+            "10": "smooth, concave, light, cool, firm",
+            "11": "light, rigid, smooth, warm, compact",
+            "12": "glittering, sharp, cold, sleek, narrow",
+            "13": "padded, flexible, compact, rugged, slightly pliable",
+            "14": "hard, cool, cylindrical, glossy, stable",
+            "15": "smooth, slightly warm, lightweight, firm, compact",
+            "16": "compact, glossy, stable, smooth, firm",
+            "17": "sturdy, cool, smooth, compact, rounded",
+            "18": "tactile, smooth, lightweight, firm, small",
+            "19": "slim, polished, sharp, metallic, cold",
+            "20": "rounded, smooth, firm, lightweight, stable",
+            "21": "broad, smooth, firm, slightly cool, stable",
+            "22": "large, smooth, stable, hard, broad",
+            "23": "sturdy, smooth, lightweight, firm, familiar",
+            "24": "small, secure, smooth, lightweight, firm",
+            "25": "compact, cylindrical, slightly warm, smooth, firm"
+        }
+    },
+    "222564": {
+        "context": "Two chefs in a restaurant kitchen preparing food.  Two cooks are cooking the food someone ordered at this restaurant The chef is cooking with pans on the stove next to an oven.  Two men that are standing in a kitchen. Two cooks are near the stove in a stainless steel kitchen.\n\nbottle(0): [439.18, 133.93, 16.21, 33.35], person(1): [2.15, 144.34, 77.49, 235.7], person(2): [69.03, 101.06, 236.23, 311.73], microwave(3): [362.98, 149.67, 277.02, 235.01], oven(4): [249.1, 342.77, 107.51, 62.92], oven(5): [61.69, 279.88, 66.28, 115.33], oven(6): [29.4, 322.61, 45.32, 64.26], dining table(7): [1.25, 375.27, 637.09, 98.5]",
+        "response": {
+            "0": "cool, smooth, firm, glassy, rigid",
+            "1": "steady, flexible, warm, mobile, upright",
+            "2": "grounded, agile, warm, balanced, responsive",
+            "3": "hard, cool, smooth, metallic, enclosed",
+            "4": "solid, metallic, warm, rigid, polished",
+            "5": "warm, sleek, firm, metallic, smooth",
+            "6": "solid, warm, compact, sleek, rigid",
+            "7": "smooth, firm, wide, stable, cool"
+        }
+    },
+    "118113": {
+        "context": "this is a very dark picture of a room with a shelf a cluttered room with a table and shelf on the wall. A view of a messy room, with shelves on the wall. A dark and cluttered storage area with wood walls. A dim lit room consisting of many objects put together. \n\nbottle(0): [126.72, 355.82, 18.84, 45.91], book(1): [284.04, 180.23, 43.78, 14.87], book(2): [280.66, 191.71, 53.51, 12.59], book(3): [224.84, 235.82, 154.89, 64.75], dining table(4): [26.87, 374.69, 151.22, 151.22], oven(5): [169.59, 361.58, 142.7, 59.92], oven(6): [169.54, 425.92, 120.7, 105.17], book(7): [242.24, 102.22, 115.54, 50.69], book(8): [274.24, 202.43, 58.89, 12.92], book(9): [226.62, 197.56, 56.91, 17.22], book(10): [234.0, 121.68, 120.22, 47.4]",
+        "response": {
+            "0": "smooth, cool, cylindrical, hard, sleek",
+            "1": "rigid, slightly textured, smooth, thin, stacked",
+            "2": "smooth, compact, slightly textured, rigid, layered",
+            "3": "firm, lined, smooth, layered, solid",
+            "4": "sturdy, even, broad, smooth, fixed",
+            "5": "solid, metallic, smooth, cool, firm",
+            "6": "cool, metallic, smooth, solid, rigid",
+            "7": "smooth, rectangular, slightly textured, rigid, compact",
+            "8": "hard, crisp-edged, smooth, layered, rigid",
+            "9": "smooth, stacked, thin, crisp, layered",
+            "10": "broad, smooth, glossy, layered, rigid"
+        }
+    },
+    "224736": {
+        "context": "A professional kitchen filled with sinks and appliances. A kitchen area with toilet and various cleaning appliances. A commercial dish washing station with a toilet in it. A toilet and mop bucket in a kitchen. A cluttered room with a sink, a toilet and in industrial mop bucket.\n\ntoilet(0): [148.1, 297.65, 122.14, 85.59], sink(1): [470.09, 148.13, 81.98, 59.16]",
+        "response": {
+            "0": "smooth, cool, hard, glossy, hygienic",
+            "1": "sleek, smooth, cool, reflective, firm"
+        }
+    },
+    "403013": {
+        "context": "A narrow kitchen filled with appliances and cooking utensils. A galley kitchen with cabinets and appliances on both sides A hallway leading into a white kitchen with appliances. Doorway view of a kitchen with a sink, stove, refrigerator and pantry. The pantry door of the small kitchen is closed.\n\nmicrowave(0): [250.35, 174.74, 34.32, 49.75], sink(1): [22.35, 269.11, 57.25, 24.66], bowl(2): [45.1, 233.14, 34.16, 18.65], refrigerator(3): [184.24, 182.26, 89.9, 182.38], oven(4): [209.61, 275.27, 73.35, 150.72]",
+        "response": {
+            "0": "smooth, hard, cool, metallic, sleek",
+            "1": "cool, smooth, wet, hard, clean",
+            "2": "smooth, round, cool, hard, lightweight",
+            "3": "cold, smooth, rigid, solid, substantial",
+            "4": "warm, smooth, metallic, firm, structured"
+        }
+    },
+    "374628": {
+        "context": "A kitchen with wood floors and lots of furniture. A beautiful, open kitchen and dining room area features an island in the center and wood cabinets and large windows. A kitchen made of mostly wood with a small desk with a laptop. A very spacious room with a kitchen and dining area. A full view of an open kitchen and dining area.\n\nchair(0): [86.16, 188.44, 100.41, 137.56], chair(1): [494.67, 166.67, 60.74, 97.93], chair(2): [413.01, 157.46, 58.81, 81.43], dining table(3): [468.88, 153.16, 114.94, 100.24], refrigerator(4): [206.72, 85.38, 73.47, 70.0], cup(5): [264.93, 192.87, 17.97, 23.53], cup(6): [508.82, 156.53, 15.29, 12.47], laptop(7): [221.68, 153.39, 66.15, 49.66], microwave(8): [344.31, 93.77, 38.83, 23.44], sink(9): [145.28, 144.99, 41.13, 6.06], bench(10): [580.48, 146.1, 59.52, 105.44], spoon(11): [217.81, 212.8, 22.15, 3.07], bowl(12): [214.08, 138.01, 10.1, 5.99], apple(13): [309.83, 123.75, 8.97, 10.36], apple(14): [322.13, 129.55, 4.39, 5.96], apple(15): [326.31, 127.32, 7.88, 7.88], chair(16): [464.38, 151.85, 34.56, 73.71], vase(17): [305.09, 189.43, 16.12, 24.35], vase(18): [538.08, 159.75, 7.7, 5.58], vase(19): [439.03, 141.86, 8.2, 9.04], vase(20): [464.75, 141.99, 5.36, 9.59], cup(21): [277.85, 203.08, 13.12, 14.29], oven(22): [341.45, 121.45, 46.44, 51.6], bowl(23): [302.79, 124.22, 33.49, 16.83], vase(24): [289.51, 104.22, 16.3, 40.37]",
+        "response": {
+            "0": "hard, smooth, sturdy, polished, cool",
+            "1": "rigid, hard, sleek, stable, smooth",
+            "2": "firm, smooth, steady, polished, sleek",
+            "3": "solid, polished, wide, smooth, stable",
+            "4": "cold, smooth, hard, metallic, reflective",
+            "5": "light, smooth, curved, cool, fragile",
+            "6": "compact, smooth, lightweight, sleek, cool",
+            "7": "cool, sleek, metallic, smooth, solid",
+            "8": "hard, cool, smooth, bulky, sturdy",
+            "9": "smooth, cool, hard, streamlined, sturdy",
+            "10": "firm, smooth, wide, hard, supportive",
+            "11": "thin, rigid, metallic, smooth, slender",
+            "12": "smooth, round, firm, fragile, lightweight",
+            "13": "smooth, firm, round, cool, lightweight",
+            "14": "firm, smooth, small, round, cool",
+            "15": "smooth, firm, round, compact, cool",
+            "16": "hard, smooth, stable, sleek, rigid",
+            "17": "smooth, delicate, cool, curved, firm",
+            "18": "small, smooth, hard, shiny, delicate",
+            "19": "compact, smooth, curved, hard, small",
+            "20": "slender, smooth, firm, small, polished",
+            "21": "delicate, round, smooth, lightweight, curved",
+            "22": "smooth, hard, metallic, reflective, warm",
+            "23": "smooth, firm, sturdy, cool, round",
+            "24": "tall, smooth, round, delicate, firm"
+        }
+    },
+    "328757": {
+        "context": "A woman eating vegetables in front of a stove. A woman forks vegetables out of a bowl into her mouth.  Woman eating an assortment of mixed vegetables in a bowl. A young woman standing in a kitchen eats a plate of vegetables. A woman eating fresh vegetables from a bowl.\n\nbottle(0): [53.27, 236.74, 13.82, 38.55], person(1): [184.28, 61.18, 309.62, 267.09], spoon(2): [188.24, 158.15, 126.01, 31.63], broccoli(3): [298.07, 291.86, 22.16, 15.66], broccoli(4): [271.67, 290.75, 25.5, 18.22], microwave(5): [427.5, 202.93, 72.5, 99.23], oven(6): [59.53, 197.89, 222.11, 134.11]",
+        "response": {
+            "0": "smooth, cool, cylindrical, solid, lightweight",
+            "1": "soft, warm, yielding, flexible, responsive",
+            "2": "metallic, smooth, cool, rigid, lightweight",
+            "3": "bumpy, firm, slightly rough, crisp, fresh",
+            "4": "textured, firm, slightly rough, crisp, fresh",
+            "5": "smooth, hard, cool, polished, structured",
+            "6": "rigid, cool, smooth, metallic, sturdy"
+        }
+    },
+    "384213": {
+        "context": "A kitchen is shown with a variety of items on the counters. A kitchen has the windows open and plaid curtains. A kitchen with two windows and two metal sinks. An older kitchen with cluttered counter tops but empty sink. Glasses and bottles are placed near a kitchen sink.\n\nbottle(0): [174.18, 254.9, 18.54, 53.17], oven(1): [15.28, 306.91, 77.84, 180.53], sink(2): [228.19, 339.03, 146.81, 123.05], sink(3): [163.16, 326.15, 136.19, 39.68], bottle(4): [218.49, 248.34, 30.53, 73.71], bowl(5): [170.45, 302.84, 37.02, 32.86], book(6): [64.81, 293.22, 45.39, 7.08], bottle(7): [131.05, 255.19, 25.36, 73.47], bottle(8): [181.41, 271.73, 13.61, 32.16], bottle(9): [201.51, 277.71, 11.07, 32.97]",
+        "response": {
+            "0": "glassy, smooth, cool, slippery, firm",
+            "1": "rigid, smooth, metallic, sturdy, warm",
+            "2": "shiny, smooth, cool, deep, firm",
+            "3": "glossy, cold, smooth, shallow, clean",
+            "4": "glossy, hard, cool, slender, sturdy",
+            "5": "smooth, curved, cool, hard, shallow",
+            "6": "flat, rough, paper-textured, layered, pliable",
+            "7": "smooth, cylindrical, cool, firm, slick",
+            "8": "narrow, smooth, cool, glossy, fragile",
+            "9": "slight, smooth, cool, rounded, slippery"
+        }
+    },
+    "293802": {
+        "context": "A boy performing a kickflip on his skateboard on a city street. A man is doing a trick on a skateboard A guy jumps in the air with his skateboard beneath him. Man in all black doing a trick on his skateboard. A skateboarder flipping his board on a street.\n\nchair(0): [341.33, 202.07, 35.79, 48.17], dining table(1): [364.06, 184.0, 52.76, 16.35], bicycle(2): [0.0, 158.21, 45.54, 50.48], umbrella(3): [218.45, 102.69, 71.71, 23.07], umbrella(4): [288.29, 104.22, 91.39, 27.68], skateboard(5): [198.17, 408.75, 104.91, 105.97], person(6): [51.78, 17.26, 302.02, 427.14], person(7): [112.87, 135.5, 38.38, 118.27], person(8): [153.81, 137.36, 42.55, 113.75], person(9): [186.73, 119.92, 16.38, 26.55], person(10): [71.17, 119.98, 28.95, 55.84], person(11): [80.19, 126.8, 40.57, 60.02], person(12): [143.21, 130.22, 12.54, 39.87], person(13): [365.2, 129.79, 34.43, 44.09], umbrella(14): [157.76, 119.01, 31.26, 10.35], person(15): [3.64, 121.45, 40.16, 77.99], person(16): [82.73, 159.81, 23.05, 95.05], person(17): [181.1, 130.91, 23.34, 36.95], umbrella(18): [339.61, 11.07, 85.39, 79.17], chair(19): [354.08, 188.77, 25.75, 31.62], dining table(20): [372.04, 198.49, 52.96, 56.27], person(21): [335.91, 133.06, 33.14, 67.1], person(22): [39, 117, 381, 73]",
+        "response": {
+            "0": "rigid, smooth, cool, stable, firm",
+            "1": "flat, broad, smooth, solid, sturdy",
+            "2": "slender, slightly gritty, metallic, stable, rigid",
+            "3": "waterproof, flexible, smooth, slightly textured, bendable",
+            "4": "slightly textured, stretchable, smooth, flexible, pliable",
+            "5": "rough, gritty, compact, solid, worn",
+            "6": "dynamic, agile, balanced, poised, springy",
+            "7": "steady, balanced, firm, nimble, taut",
+            "8": "flexible, agile, sturdy, balanced, active",
+            "9": "compact, taut, quick, poised, balanced",
+            "10": "upright, firm, nimble, responsive, springy",
+            "11": "steady, springy, balanced, agile, upright",
+            "12": "compact, nimble, taut, poised, firm",
+            "13": "active, nimble, balanced, stable, agile",
+            "14": "smooth, bendable, slightly textured, lightweight, pliable",
+            "15": "tall, balanced, relaxed, grounded, stable",
+            "16": "poised, upright, firm, nimble, active",
+            "17": "small, agile, balanced, firm, nimble",
+            "18": "lightweight, smooth, flexible, stretchable, bendy",
+            "19": "rigid, stable, cool, firm, steady",
+            "20": "flat, broad, sturdy, smooth, solid",
+            "21": "poised, alert, balanced, active, taut",
+            "22": "broad, expansive, stable, firm, level"
+        }
+    },
+    "86408": {
+        "context": "A kitchen with a stove, microwave and refrigerator. A refrigerator, oven and microwave sitting in a kitchen. The kitchenette uses  small space to great efficiency. an image of a kitchen setting with black appliances A kitchen with cabinets, a stove, microwave and refrigerator.\n\nrefrigerator(0): [384.68, 62.99, 182.73, 284.67], microwave(1): [210.14, 21.11, 145.85, 95.96], oven(2): [197.22, 154.14, 192.44, 265.2]",
+        "response": {
+            "0": "smooth, cool, solid, rigid, sleek",
+            "1": "hard, reflective, compact, cool, smooth",
+            "2": "firm, metallic, smooth, solid, warm"
+        }
+    },
+    "372938": {
+        "context": "A group of people riding on the back of a loaded red pickup truck. A truck with a number of people and things in the back Men are crowded on the back of a small overloaded pickup truck. An old pick up truck over loaded with people and cargo. A truck carries a large amount of items and a few people.\n\ntruck(0): [162.93, 156.92, 366.83, 219.15], person(1): [178.74, 77.0, 68.8, 179.88], person(2): [247.34, 92.92, 39.22, 67.46], person(3): [179.4, 90.81, 31.81, 112.52], person(4): [192.83, 167.66, 86.75, 167.84], person(5): [264.11, 192.76, 73.02, 72.56], person(6): [189.96, 153.51, 51.52, 98.97], person(7): [152.97, 192.32, 43.98, 61.25], backpack(8): [203.85, 218.23, 35.27, 27.54]",
+        "response": {
+            "0": "hard, rough, metallic, solid, sturdy",
+            "1": "flexible, balanced, warm, slightly firm, upright",
+            "2": "compact, nimble, firm, crouched, steady",
+            "3": "grounded, balanced, firm, responsive, warm",
+            "4": "slightly soft, flexible, responsible, contained, warm",
+            "5": "firm, balanced, steady, snug, slightly warm",
+            "6": "compact, flexible, upright, nimble, warm",
+            "7": "small, taut, firm, mobile, balanced",
+            "8": "rugged, padded, snug, slightly textured, compact"
+        }
+    },
+    "384553": {
+        "context": "A man riding an elephant into some water of a creek. man riding an elephant into water surrounded by forest A man riding an elephant in a river. A man in a brown shirt rides an elephant into the water. A man rides an elephant into a river.\n\nperson(0): [259.99, 204.11, 137.19, 142.94], elephant(1): [219.2, 285.73, 223.99, 134.96], elephant(2): [202.54, 162.7, 220.25, 73.04]",
+        "response": {
+            "0": "firm, balanced, warm, poised, steady",
+            "1": "wrinkled, leathery, warm, sturdy, textured",
+            "2": "coarse, resilient, tough, warm, earthy"
+        }
+    },
+    "368402": {
+        "context": "The woman in the kitchen is holding a huge pan. A chef carrying a large pan inside of a kitchen. A woman is holding a large pan in a kitchen.  A woman cooking in a kitchen with granite counters. A woman cooking in her kitchen with a black pan.\n\nbottle(0): [12.47, 196.42, 16.73, 60.9], bottle(1): [422.2, 219.87, 19.08, 46.21], bottle(2): [142.52, 209.21, 12.31, 27.88], person(3): [202.83, 100.83, 96.87, 248.57], cup(4): [262.67, 260.02, 33.19, 63.37], sink(5): [117.94, 238.31, 60.9, 10.75], wine glass(6): [39.09, 226.5, 21.58, 47.89], knife(7): [524.83, 213.37, 12.13, 29.33], knife(8): [532.62, 231.63, 3.84, 9.67], spoon(9): [536.36, 203.09, 24.3, 49.85], spoon(10): [490.84, 181.34, 15.67, 30.7], bowl(11): [92.6, 239.52, 28.67, 11.07], orange(12): [55.86, 252.16, 16.2, 15.61], refrigerator(13): [374.55, 147.18, 23.6, 115.75], spoon(14): [487.87, 209.95, 33.64, 44.5], bowl(15): [239.7, 221.05, 107.67, 29.64], oven(16): [521.46, 152.02, 20.1, 51.37]",
+        "response": {
+            "0": "hard, smooth, rigid, cool, elongated",
+            "1": "slick, cool, narrow, firm, smooth",
+            "2": "compact, smooth, lightweight, rigid, stable",
+            "3": "flexible, upright, warm, agile, steady",
+            "4": "smooth, rounded, firm, cool, lightweight",
+            "5": "smooth, cold, sleek, solid, firm",
+            "6": "delicate, slick, fragile, cool, smooth",
+            "7": "sharp, hard, sleek, cold, smooth",
+            "8": "small, sharp, rigid, sleek, cool",
+            "9": "smooth, rounded, firm, shiny, slender",
+            "10": "smooth, slender, firm, cool, lightweight",
+            "11": "cool, smooth, solid, rounded, firm",
+            "12": "textured, firm, round, slightly uneven, cool",
+            "13": "hard, cool, smooth, sturdy, solid",
+            "14": "rounded, smooth, firm, shiny, lightweight",
+            "15": "cool, smooth, stable, rounded, firm",
+            "16": "hard, smooth, warm, solid, sturdy"
+        }
+    },
+    "79841": {
+        "context": "Two bikers, one in front of a building, the other in the city. Two shots of men riding bicycles down city streets. A man riding a bike in front of a tall building. There are two different people riding bikes down the street. Two photos of a person riding a bicycle on the side of the road.\n\nbicycle(0): [157.57, 149.9, 67.72, 38.86], person(1): [173.86, 118.99, 36.69, 59.68], person(2): [526.32, 123.81, 34.24, 56.5], backpack(3): [172.23, 120.55, 20.48, 16.67], backpack(4): [521.84, 129.95, 17.24, 15.91], bicycle(5): [510.21, 153.91, 63.79, 36.98]",
+        "response": {
+            "0": "sturdy, metallic, smooth, lightweight, cool",
+            "1": "balanced, upright, firm, warm, agile",
+            "2": "upright, steady, flexible, warm, athletic",
+            "3": "compact, padded, snug, firm, slightly textured",
+            "4": "compact, cushioned, lightweight, firm, slightly textured",
+            "5": "sleek, metallic, cool, smooth, resilient"
+        }
+    },
+    "515289": {
+        "context": "People riding bicycles down the road approaching a bird. three bicycle riders some trees and a pigeon A geoup of people on bicycles coming down a street. Several smiling bicycle riders approaching a colorful pigeon. A pigeon greets three bicyclists on a park path\n\nbicycle(0): [264.26, 169.29, 110.11, 250.49], bicycle(1): [200.85, 144.49, 49.3, 168.79], bicycle(2): [129.94, 110.24, 51.14, 147.9], person(3): [248.69, 0.84, 129.44, 313.52], person(4): [187.06, 24.01, 85.5, 269.38], person(5): [1.94, 27.58, 24.13, 100.4], person(6): [111.25, 19.05, 90.68, 213.18], bird(7): [0.68, 525.67, 105.86, 89.35], umbrella(8): [556.23, 94.07, 32.28, 34.18], person(9): [459.4, 84.93, 16.97, 25.19], person(10): [415.31, 81.7, 7.78, 22.82], person(11): [402.04, 86.23, 6.61, 17.76]",
+        "response": {
+            "0": "smooth, hard, cool, metallic, sturdy",
+            "1": "compact, firm, smooth, steady, lightweight",
+            "2": "sleek, rigid, cool, balanced, narrow",
+            "3": "upright, steady, firm, flexible, warm",
+            "4": "balanced, mobile, warm, responsive, steady",
+            "5": "compact, firm, poised, steady, upright",
+            "6": "fluid, agile, secure, firm, balanced",
+            "7": "feathery, soft, light, smooth, delicate",
+            "8": "lightweight, compact, smooth, slightly textured, cool",
+            "9": "firm, upright, adaptable, nimble, warm",
+            "10": "small, agile, poised, lean, warm",
+            "11": "compact, stable, upright, agile, warm"
+        }
+    },
+    "579003": {
+        "context": "A shower stall with interesting tile is the focal point. A full perspective of a washroom with a sink. \n A white bathroom sink sitting under a mirror. I picture of a bathroom with a stand up shower stall and a person's reflection in the mirror. A small shower behind a small bathroom sink.\n\nperson(0): [373.18, 182.84, 72.71, 100.27], sink(1): [367.17, 375.13, 64.27, 102.03], backpack(2): [402.81, 236.43, 38.6, 60.14], sink(3): [235.07, 301.24, 90.82, 23.79]",
+        "response": {
+            "0": "flexible, upright, poised, balanced, taut",
+            "1": "smooth, cool, hard, glossy, sturdy",
+            "2": "padded, flexible, textured, compact, firm",
+            "3": "hard, sleek, glossy, cool, sturdy"
+        }
+    },
+    "540186": {
+        "context": "A view of a very large bathroom with mirrored walls. a corner bathroom with two sinks and a bathtub A bathroom with a sink, shower and bathtub. A large bathroom with cabinets, mirrors and a tub. This bathroom has mirrors on the doors, cabinets, and a bathtub in the corner.\n\nsink(0): [344.0, 275.99, 98.91, 26.8], sink(1): [307.08, 292.14, 20.98, 6.51]",
+        "response": {
+            "0": "smooth, cool, hard, glossy, slick",
+            "1": "cool, sleek, polished, firm, reflective"
+        }
+    },
+    "173350": {
+        "context": "Two dogs are looking up while they stand near the toilet in the bathroom. Two small dogs standing in a restroom next to a toilet. Two dogs looking up at a camera in a bathroom. Two small lap dogs in a small bathroom. Two small dogs stand together in a bathroom.\n\ndog(0): [266.67, 0.0, 201.69, 269.58], dog(1): [250.18, 254.3, 203.64, 203.64], toilet(2): [106.79, 0.0, 201.7, 217.89]",
+        "response": {
+            "0": "soft, fluffy, warm, furry, small",
+            "1": "silky, cushioned, warm, gentle, petite",
+            "2": "smooth, cool, hard, pristine, solid"
+        }
+    },
+    "166532": {
+        "context": "A white bath tub sitting next to a bathroom sink. There is a bathtub and a counter in a bathroom. A bathroom with a tub and shower and a sink. This is a shower and bathtub without a shower curtain.  A bathroom that has a mirror and a bathtub.\n\nsink(0): [472.6, 223.81, 110.97, 75.16]",
+        "response": {
+            "0": "smooth, cool, glossy, hard, clean"
+        }
+    },
+    "111076": {
+        "context": "A bathroom with a sink and toilet and a window. A white bathroom with white fixtures and tile floor A small white toilet sitting next to a sink. Small bathroom with a toilet, shower, and small mirror.  A bathroom contains a toilet and a sink.\n\nbottle(0): [410.1, 137.41, 25.0, 62.12], toilet(1): [66.87, 169.17, 157.62, 231.18], sink(2): [327.21, 156.12, 312.79, 213.02], person(3): [561.57, 0.69, 77.64, 45.66]",
+        "response": {
+            "0": "smooth, hard, cylindrical, cool, rigid",
+            "1": "cold, smooth, glossy, hard, solid",
+            "2": "cool, smooth, slick, solid, firm",
+            "3": "firm, upright, steady, motionless, balanced"
+        }
+    }
+}

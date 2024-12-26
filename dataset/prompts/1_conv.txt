@@ -1,0 +1,14 @@
+{
+  "0": "firm, warm, upright, moving, steady",
+  "1": "flexible, grounded, balanced, taut, fluid",
+  "2": "compact, firm, crouched, stable, responsive",
+  "3": "padded, rigid, firm, slightly rough, closed",
+  "4": "slightly textured, compact, firm, snug, resilient",
+  "5": "hard, cool, smooth, ridged, weighty",
+  "6": "hard, matte, cool, wheeled, stable",
+  "7": "slender, firm, metallic, rigid, stationary",
+  "8": "cold, smooth, glossy, rigid, unyielding",
+  "9": "sleek, cool, polished, firm, smooth",
+  "10": "hard, compact, cool, smooth, solid",
+  "11": "broad, glossy, smooth, cool, solid"
+}
