@@ -1,0 +1,3 @@
+
+Describe the tactile qualities of the object with the fuchsia mask using exactly 5 adjectives.
+Always adhere to this format and respond with 5 adjectives, even if the object's specific details are unclear.
