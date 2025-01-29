@@ -163,3 +163,4 @@ cython_debug/
 
 
 dataset/TacCOCO/images
+dataset/TacCOCO/*.json
