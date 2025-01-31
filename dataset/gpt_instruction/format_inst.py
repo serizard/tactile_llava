@@ -45,14 +45,14 @@ if __name__ == "__main__":
                 'id': item['id'],
                 'image': save_path,
                 'segmentations': segmentation,
-                'conversation': conv
+                'conversations': conv
             })
         else:
             formatted_data.append({
                 'id': item['id'],
                 'image': item['image'],
                 'bboxes': bbox,
-                'conversation': conv
+                'conversations': conv
             })
             
        

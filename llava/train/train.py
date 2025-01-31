@@ -36,7 +36,7 @@ from llava.mm_utils import tokenizer_image_token
 
 from PIL import Image
 import random
-from llava.visual_prompt_organizer import vip_processor, visual_prompt_config
+from dataset.visual_prompt_organizer import vip_processor, visual_prompt_config
 
 
 local_rank = None

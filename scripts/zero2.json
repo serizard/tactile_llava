@@ -18,6 +18,12 @@
         "overlap_comm": true,
         "contiguous_gradients": true,
         "sub_group_size": 1e9,
-        "reduce_bucket_size": "auto"
-    }
+        "reduce_bucket_size": "auto",
+        "reduce_scatter": true,
+        "allgather_partitions": true,
+        "allgather_bucket_size": 5e8,
+        "cpu_offload": false
+    },
+    "gradient_clipping": 1.0,
+    "communication_data_type": "auto"
 }
